@@ -34,4 +34,4 @@ Should you encounter a problem installing the mod, click on Reset All Forges in 
 3) Select "Properties" / "Local Files"
 4) Click "Verify Integrity of Game Files"
 
-*Credit for additional mods in images go to ilikedetectives, hypermorphic, and BenderBendingRodriguez300 (forger version ).*
+*Thanks to ilikedetectives for extracting textures and data, hypermorphic for his tools and great contribution to the community, and Makacha for always extending a helping hand was requested. Thank you to all.*
