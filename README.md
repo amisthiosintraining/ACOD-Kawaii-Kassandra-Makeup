@@ -1,10 +1,13 @@
-# Kawaii-Kassandra-Makeup
+# ACOD | Kawaii Kassandra Makeup
+
 Makes Kassandra... o(*￣▽￣*)ブ (I'm not taking responsibility for this)
+
+<img src="https://imgur.com/zmcSDax.png">
 
 ___________
 
 **REQUIREMENTS**
-- Forger 2.10 Utility or better >> https://www.nexusmods.com/assassinscreedodyssey/mods/42
+- <a href="https://www.nexusmods.com/assassinscreedodyssey/mods/42">Forger 2.10 Utility</a> or better
 - KassandraEyeMakeup folder
 - Kassandra_Eye_Makeup-v3.forger2
 
